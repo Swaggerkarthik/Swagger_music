@@ -86,7 +86,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <p align="center">
 <a href="https://github.com/pyrogram/pyrogram"> <img src="https://img.shields.io/badge/Pyrogram-black?style=for-the-badge&logo=github" alt="Pyrogram" /> </a>
 <a href="https://github.com/pytgcalls/pytgcalls"> <img src="https://img.shields.io/badge/PyTgCalls-black?style=for-the-badge&logo=github" alt="Pytgcalls" /> </a>
-<a href="https://github.com/itszshivam"> <img src="https://img.shields.io/badge/CallsMusic-black?style=for-the-badge&logo=github" alt="SHIVAM" /> </a>
+<a href="https://github.com/itszshivam"> <img src="https://img.shields.io/badge/PhantomMusic-black?style=for-the-badge&logo=github" alt="SHIVAM" /> </a>
 </p>
 
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ʂɧı۷ąɱ](https://github.com/itszshivam) ғᴏʀ [ᴘʜᴀɴᴛᴏᴍ x ᴍᴜsɪᴄ](https://github.com/itszshivam/SK_musicbot)_ </b>
